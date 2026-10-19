@@ -13,7 +13,7 @@ Online Nursery Plantation is a web-based project designed to provide information
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
+
 
 ## Project Objective
 Developed to improve frontend development skills and promote awareness of plant care through an informative and accessible website.
